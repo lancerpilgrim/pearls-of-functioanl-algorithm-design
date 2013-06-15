@@ -1,0 +1,20 @@
+第一章：The smallest free number
+=================
+
+Introduction
+-------------------
+
+
+An array-based solution
+------------------------
+
+A divided and conquer sulution
+-------------------------------
+
+Final remarks
+---------------
+
+
+
+
+
